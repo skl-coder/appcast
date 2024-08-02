@@ -6,6 +6,7 @@
             <title>Version 1.0.3</title>
             <description>Minor updates and improvements.</description>
             <sparkle:minimumSystemVersion>1.0.3</sparkle:minimumSystemVersion>
+            <enclosure url="" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
