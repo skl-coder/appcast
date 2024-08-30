@@ -3,10 +3,10 @@
     <channel>
         <title>New version updates</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.5</title>
             <description>Minor updates and improvements.</description>
-            <sparkle:minimumSystemVersion>1.0.3</sparkle:minimumSystemVersion>
-            <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>1.0.5</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 30 Aug 2024 12:00:00 +0000</pubDate>
             <enclosure url="" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
